@@ -1,0 +1,59 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #333;
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+#gameCanvas {
+  border: 2px solid #fff;
+  background-color: #444;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+.score-container {
+  margin-top: 20px;
+}
+
+.game-over-container {
+  display: none;
+  margin-top: 20px;
+}
+
+#gameOverText {
+  font-size: 1.5em;
+  color: #ff4d4d;
+}
+
+#highScoreDetails {
+  margin-top: 10px;
+  font-size: 1.2em;
+  color: #fff;
+}
+
+#restartButton {
+  background-color: #33cc33;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  cursor: pointer;
+}
+
+#restartButton:hover {
+  background-color: #29a329;
+}
