@@ -1,14 +1,12 @@
-# SnakeGame
-**Snake Game:** Grow the snake, eat red squares, and avoid collisions. Realistic slowdown, all-time high score, and personalized recognition. Enjoy the classic with a modern touch! 🐍🎮
-Certainly! Here's a simple README for the Snake Game:
-
----
-
 # Snake Game
 
 ## Overview
 
 The Snake Game is a classic arcade game where the player controls a snake, guiding it to eat red squares to grow while avoiding collisions with walls and its own body.
+
+## GitHub Pages Deployment
+
+The Snake Game is hosted using GitHub Pages and is live at [https://merndevtinkal.github.io/SnakeGame/](https://merndevtinkal.github.io/SnakeGame/). The last deployment was performed by [@MERNDevTinkal](https://github.com/MERNDevTinkal) 2 minutes ago.
 
 ## Instructions
 
